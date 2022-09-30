@@ -1,2 +1,3 @@
 # Amarelfaith.github.io
-This is my portifolio
+
+This is my portfolio
